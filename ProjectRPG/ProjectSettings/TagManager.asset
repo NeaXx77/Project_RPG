@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Environnement
+  - Projectiles
+  - Weapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Wall
+  - Player
+  - Ennemies
+  - Loot
+  - PlayerLooting
+  - Particles
+  - PNJ
+  - Houses
+  - Weapon
+  - Lights
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 4109042175
+    locked: 0
+  - name: Weapons
+    uniqueID: 3202244951
+    locked: 0
+  - name: Ennemies
+    uniqueID: 1980489441
+    locked: 0
+  - name: Ground
+    uniqueID: 2824767387
+    locked: 0
+  - name: Wall
+    uniqueID: 631094079
+    locked: 0
+  - name: PNJ
+    uniqueID: 2958876825
+    locked: 0
+  - name: Houses
+    uniqueID: 2603154413
+    locked: 0
+  - name: Lights
+    uniqueID: 3783328937
+    locked: 0

@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: cb4c23968e151ff40b7b9cd0c75a4c17
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5649210824784946016
+    second: ClydeRun_0
+  - first:
+      213: 405348352948865591
+    second: ClydeRun_1
+  - first:
+      213: -5558379614434753253
+    second: ClydeRun_2
+  - first:
+      213: -965545584653275209
+    second: ClydeRun_3
+  - first:
+      213: -4130859728570331699
+    second: ClydeRun_4
+  - first:
+      213: -4482450930783528846
+    second: ClydeRun_5
+  - first:
+      213: 4303928926826189265
+    second: ClydeRun_6
+  - first:
+      213: 1721701248353431198
+    second: ClydeRun_7
+  - first:
+      213: -5121891113211920513
+    second: ClydeRun_8
+  - first:
+      213: 1429272125080317900
+    second: ClydeRun_9
+  - first:
+      213: 4672371291933794338
+    second: ClydeRun_10
+  - first:
+      213: 8955418897671804928
+    second: ClydeRun_11
+  - first:
+      213: 8997306772844887573
+    second: ClydeRun_12
+  - first:
+      213: -1468872009582507829
+    second: ClydeRun_13
+  - first:
+      213: 3966341375160766008
+    second: ClydeRun_14
+  - first:
+      213: 4055365471477029911
+    second: ClydeRun_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ClydeRun_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d590d3ef0726d74a8e238cd142a07a8
+      internalID: -5649210824784946016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClydeRun_1
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3000
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad81c5e30a692a448f66f8c05cd4c7b
+      internalID: 405348352948865591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClydeRun_2
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3000
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64931eafea616114db2c471b0ae7cf34
+      internalID: -5558379614434753253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClydeRun_3
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3000
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9feb674933efb4e44a70a5756c7352f0
+      internalID: -965545584653275209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClydeRun_4
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3000
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405abc59c6d522041b2b049355ce3be9
+      internalID: -4130859728570331699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClydeRun_5
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 3000
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb258e8758840440a34888b70561f0a
+      internalID: -4482450930783528846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClydeRun_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e4b5158f4f58149a176127445f21d1
+      internalID: 4303928926826189265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClydeRun_7
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1500
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b6178cb1ca11f419448c7f52b7b870
+      internalID: 1721701248353431198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClydeRun_8
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1500
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb60775536b54d439bd33d69a1645ee
+      internalID: -5121891113211920513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClydeRun_9
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1500
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12969573376b47428b5403181aac46a
+      internalID: 1429272125080317900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClydeRun_10
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1500
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91797c5efa89e445bc5f8467ac4f6cc
+      internalID: 4672371291933794338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClydeRun_11
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 1500
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23809775fb3e4b543beea613726da064
+      internalID: 8955418897671804928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClydeRun_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dabb73b8f1d4e448e4f03efa500402
+      internalID: 8997306772844887573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClydeRun_13
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efad951cd22fc6140b4b6687502c9160
+      internalID: -1468872009582507829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClydeRun_14
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd546e1f55908c94eab69298d0858ff8
+      internalID: 3966341375160766008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClydeRun_15
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 0
+        width: 1500
+        height: 1500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8b4eabc0c477c4e8a271ef4a65fd0a
+      internalID: 4055365471477029911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2de26d3d3aa84e34cb09390fd234b48e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
